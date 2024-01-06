@@ -11,23 +11,23 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules 🎓 known
+  - ECMAScript modules 🎓 known
+  - node:module 
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 👂 heard
+  - Dependencies: package.json and package lock 👂 heard
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
-  - DI containers
+  - Dependency injection 👂 heard
+  - DI containers 👂 heard
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -86,9 +86,9 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) 🖐️ used
+  - TCP/SSL 🖐️ used
+  - UDP 🖐️ used
   - TLS
   - Websocket
   - SSE
@@ -103,9 +103,9 @@
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API 🖐️ used
   - IncomingMessage
-  - SQL injection
+  - SQL injection 👂 heard
   - noDelay
   - keep-alive
   - ALPN
@@ -116,13 +116,13 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Testing 👂 heard
+  - CI/CD 👂 heard
+  - Readable 
+  - Writable 
   - Transform
   - back pressure
-  - Buffer
+  - Buffer 🖐️ used
   - Console
   - Inspector
   - Reliability
@@ -136,11 +136,11 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error 🖐️ used
+  - error.cause 👂 heard
+  - error.code 👂 heard
+  - error.message 👂 heard
+  - error.stack 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
