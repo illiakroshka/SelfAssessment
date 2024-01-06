@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained
+  - constant 🙋 explained
+  - scalar 🙋 explained
+  - literal 🙋 explained
+  - expression 🙋 explained
+  - heap 🙋 explained
+  - function 🙋 explained
+  - procedure 🙋 explained
+  - method 🙋 explained
+  - class 🖐️ used 
+  - prototype 🎓 known
+  - event 👂 heard
+  - type 🙋 explained
+  - primitive types 🙋 explained
+  - reference types 🙋 explained
+  - flag 🙋 explained
+  - lexical scope 🙋 explained 
+  - code block 🙋 explained
+  - conditions 🙋 explained 
+  - loops 🙋 explained
+  - assignment 🙋 explained
+  - regular expression 🎓 known
+  - interface 👂 heard
+  - contract 
+  - module 👂 heard
+  - call stack 👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
+  - signature 🙋 explained 
+  - argument 🙋 explained
+  - parameter 🙋 explained
+  - pure function 🖐️ used
+  - lambda expression 🙋 explained
+  - side effects 🖐️ used
+  - closure 🖐️ used
+  - partial application 🚀 constructed
+  - curry 🚀 constructed
+  - higher order 🙋 explained
+  - recursion 🖐️ used
+  - callback 🙋 explained
+  - listener 👂 heard
+  - compose 🎓 known
+  - pipe 🎓 known 
+  - memoize 🎓 known
+  - wrapper 🎓 known
+  - functor 
+  - monad 
   - monoid
-  - generator
+  - generator 🎓 known
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array 🙋 explained
+  - structure 
   - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
-- Process & style
-  - compiler
-  - transpiler
-  - linter
+  - enum 🎓 known
+  - instance 🙋 explained
+  - object 🙋 explained
+  - class 🖐️ used
+  - collection 🖐️ used
+  - set 🖐️ used
+  - hash table 🖐️ used
+  - linked list 🚀 constructed
+  - doubly list 🙋 explained
+  - unrolled list 🙋 explained
+  - circular list 🙋 explained
+  - queue 🚀 constructed
+  - stack 🚀 constructed
+  - deque 🚀 constructed
+  - tree 🎓 known
+  - graph 🎓 known
+  - iterator 🎓 known
+  - mutable state 🎓 known 
+  - immutable state 🎓 known
+  - serialization 🎓 known
+  - string parsing 🎓 known
+- Process & style 
+  - compiler 🎓 known
+  - transpiler 🎓 known
+  - linter 🙋 explained
   - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - debugger 🙋 explained
+  - garbage collection 🎓 known
+  - refactoring 🙋 explained
+  - code review 🎓 known
+  - antipatterns 🖐️ used ))
+  - paradigm 🖐️ used
+  - algorithm 🖐️ used
+  - magic numbers 🖐️ used
+  - hardcode 🖐️ used
+  - complexity 🖐️ used
+  - decomposition 🖐️ used
+  - spaghetti 🖐️ used
+  - silver bullet 🖐️ used
+  - not invented here 🖐️ used
+  - dead code 🖐️ used
+  - unreachable code 🖐️ used
+  - duplicate code 🖐️ used
+  - exception 🖐️ used
+  - return early 🖐️ used
+  - unittest 👂 heard
+  - git 🎓 known
+  - github 🎓 known
