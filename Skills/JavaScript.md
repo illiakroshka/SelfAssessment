@@ -1,40 +1,29 @@
 ## Programming fundamental concepts
 
-👂 heard - чув про таке
-🎓 known - вивчав, знаю
-🖐️ used - використовував у
-🙋 explained - можу пояснити за...
-📢 talked - робив доповідь
-🔬 researched - глибоко досліджував
-🚀 constructed - створив свою реалізацію (if applicabl)
-
-👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
-
-
 - Language
   - Object 🙋 explained
-  - this 🖐️ used
+  - this 🙋 explained
   - arrow function 🙋 explained
   - async function 🙋 explained
-  - call 🎓 known
-  - bind 🎓 known
-  - apply 🎓 known
-  - instanceof 🎓 known
+  - call 🙋 explained
+  - bind 🙋 explained
+  - apply 🙋 explained
+  - instanceof 🙋 explained
   - ...spread 🙋 explained
   - ...rest 🙋 explained
   - typeof 🙋 explained
   - destructuring 🙋 explained
-  - generator 🎓 known
-  - iterator 🎓 known
-  - async generator 🎓 known
-  - async iterator 🎓 known
+  - generator 🖐️ used
+  - iterator 🔬 researched
+  - async generator 🖐️ used
+  - async iterator 🔬 researched
   - chaining 🖐️ used
   - optional chaining
-  - IIFE 👂 heard
-  - global 👂 heard
-  - globalThis 👂 heard
+  - IIFE 🙋 explained
+  - global 🖐️ used
+  - globalThis 🖐️ used
   - window 🎓 known 
-  - getters and setters 🖐️ used 
+  - getters and setters 🙋 explained 
   - __proto__ 🖐️ used
   - prototype 🖐️ used
   - equality operators 🙋 explained
@@ -42,15 +31,15 @@
   - bitwise operators 🙋 explained
   - ternary operator 🙋 explained
   - void 🎓 known
-  - yield 🎓 known
-  - await 🎓 known
+  - yield 🖐️ used
+  - await 🙋 explained
   - template literal 🙋 explained
-  - strict mode 🖐️ used
+  - strict mode 🙋 explained
   - delete 🖐️ used
   - in 🙋 explained
-  - super 👂 heard
-  - Symbol 🎓 known
-  - Reflect
+  - super 🙋 explained
+  - Symbol 🙋 explained
+  - Reflect 🎓 known
 - Statements
   - if 🙋 explained
   - while 🙋 explained
@@ -58,24 +47,24 @@
   - for 🙋 explained
   - for..in 🙋 explained
   - for..of 🙋 explained
-  - for await 👂 heard
-  - throw 🖐️ used
-  - break 🖐️ used
-  - continue 🖐️ used
-  - import 🖐️ used
-  - export 🖐️ used
-  - label
-  - try..catch 🖐️ used
+  - for await 🙋 explained
+  - throw 🙋 explained
+  - break 🙋 explained
+  - continue 🙋 explained
+  - import 🙋 explained
+  - export 🙋 explained
+  - label 🎓 known
+  - try..catch 🙋 explained
   - switch 🙋 explained
-  - class 🖐️ used
-  - new Error 🖐️ used
-  - with 👂 heard
+  - class 🙋 explained
+  - new Error 🙋 explained
+  - with 🎓 known
 - Functions
   - function declaration 🙋 explained 
   - function expression 🙋 explained
   - return 🙋 explained
   - default parameters 🙋 explained
-  - functional object 👂 heard 
+  - functional object 🎓 known 
 - Data structures
   - Array 🙋 explained
   - mixin 🎓 known
@@ -87,14 +76,14 @@
   - null 🙋 explained
   - Proxy 🎓 known
   - weak collections 🎓 known
-  - timers 🎓 known
-  - EventEmitter 👂 heard
+  - timers 🙋 explained
+  - EventEmitter 🖐️ used 
   - RegExp 🎓 known
-  - Date 🎓 known
+  - Date 🖐️ used
   - BigInt 🎓 known
 - Infrastructure
-  - V8 👂 heard
-  - Node.js 🖐️ used
-  - npm  🖐️ used
-  - prettier 🖐️ used
-  - MDN 🖐️ used
+  - V8 🎓 known
+  - Node.js 🙋 explained
+  - npm  🙋 explained
+  - prettier 🙋 explained
+  - MDN 🙋 explained
