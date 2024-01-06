@@ -35,7 +35,7 @@
   - Event 🖐 used
   - Coroutine 
   - Goroutine
-  - Signal
+  - Signal 🎓 known
   - Stream 🙋 explained
   - Chain of responsibility
   - Middleware 🎓 known

@@ -12,9 +12,9 @@
   - function 🙋 explained
   - procedure 🙋 explained
   - method 🙋 explained
-  - class 🖐️ used 
-  - prototype 🎓 known
-  - event 👂 heard
+  - class 🙋 explained 
+  - prototype 🙋 explained
+  - event 🖐️ used
   - type 🙋 explained
   - primitive types 🙋 explained
   - reference types 🙋 explained
@@ -25,10 +25,10 @@
   - loops 🙋 explained
   - assignment 🙋 explained
   - regular expression 🎓 known
-  - interface 👂 heard
-  - contract 
-  - module 👂 heard
-  - call stack 👂 heard
+  - interface 🔬 researched
+  - contract 🎓 known
+  - module 🙋 explained
+  - call stack 🖐 used
 - Functions
   - signature 🙋 explained 
   - argument 🙋 explained
@@ -47,22 +47,22 @@
   - pipe 🎓 known 
   - memoize 🎓 known
   - wrapper 🎓 known
-  - functor 
-  - monad 
-  - monoid
+  - functor 🎓 known
+  - monad 🎓 known
+  - monoid 🎓 known
   - generator 🎓 known
   - coroutine
 - Data structures
   - array 🙋 explained
-  - structure 
-  - record
-  - enum 🎓 known
+  - structure 🎓 known
+  - record 🎓 known
+  - enum 🙋 explained
   - instance 🙋 explained
   - object 🙋 explained
-  - class 🖐️ used
-  - collection 🖐️ used
-  - set 🖐️ used
-  - hash table 🖐️ used
+  - class 🙋 explained
+  - collection 🙋 explained
+  - set 🙋 explained
+  - hash table 🙋 explained
   - linked list 🚀 constructed
   - doubly list 🙋 explained
   - unrolled list 🙋 explained
@@ -72,7 +72,7 @@
   - deque 🚀 constructed
   - tree 🎓 known
   - graph 🎓 known
-  - iterator 🎓 known
+  - iterator 🙋 explained
   - mutable state 🎓 known 
   - immutable state 🎓 known
   - serialization 🎓 known
@@ -81,26 +81,26 @@
   - compiler 🎓 known
   - transpiler 🎓 known
   - linter 🙋 explained
-  - polyfill
+  - polyfill 🎓 known
   - debugger 🙋 explained
   - garbage collection 🎓 known
   - refactoring 🙋 explained
-  - code review 🎓 known
-  - antipatterns 🖐️ used ))
-  - paradigm 🖐️ used
-  - algorithm 🖐️ used
-  - magic numbers 🖐️ used
-  - hardcode 🖐️ used
-  - complexity 🖐️ used
-  - decomposition 🖐️ used
-  - spaghetti 🖐️ used
-  - silver bullet 🖐️ used
-  - not invented here 🖐️ used
-  - dead code 🖐️ used
-  - unreachable code 🖐️ used
-  - duplicate code 🖐️ used
-  - exception 🖐️ used
-  - return early 🖐️ used
-  - unittest 👂 heard
-  - git 🎓 known
-  - github 🎓 known
+  - code review 🚀 constructed
+  - antipatterns 🙋 explained
+  - paradigm 🙋 explained
+  - algorithm 🙋 explained
+  - magic numbers 🙋 explained
+  - hardcode 🙋 explained
+  - complexity 🙋 explained
+  - decomposition 🙋 explained
+  - spaghetti 🙋 explained
+  - silver bullet 🙋 explained
+  - not invented here 🙋 explained
+  - dead code 🙋 explained
+  - unreachable code 🙋 explained
+  - duplicate code 🙋 explained
+  - exception 🙋 explained
+  - return early 🙋 explained
+  - unittest 🙋 explained
+  - git 🔬 researched
+  - github 🔬 researched
